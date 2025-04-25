@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg">
+    <title>Invoice Generator</title>
+    <g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect fill="#3B82F6" x="0" y="0" width="32" height="32" rx="6"></rect>
+        <path d="M8,8 L24,8 C25.1045695,8 26,8.8954305 26,10 L26,22 C26,23.1045695 25.1045695,24 24,24 L8,24 C6.8954305,24 6,23.1045695 6,22 L6,10 C6,8.8954305 6.8954305,8 8,8 Z" stroke="#FFFFFF" stroke-width="2"></path>
+        <line x1="10" y1="12" x2="22" y2="12" stroke="#FFFFFF" stroke-width="2" stroke-linecap="round"></line>
+        <line x1="10" y1="16" x2="22" y2="16" stroke="#FFFFFF" stroke-width="2" stroke-linecap="round"></line>
+        <line x1="10" y1="20" x2="18" y2="20" stroke="#FFFFFF" stroke-width="2" stroke-linecap="round"></line>
+    </g>
+</svg>
